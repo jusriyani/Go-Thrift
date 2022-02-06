@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Go Thrift</string>
+    <string name="todo">todo</string>
+
+    //Heading Onboarding
+    <string name="heading_one">Selamat Datang</string>
+    <string name="heading_two">Mudah Dieksplorasi</string>
+    <string name="heading_three">Perluas Bisnis</string>
+
+    //Description Onboarding
+    <string name="desc_one">Membantu kamu mencari pakaian thrift kesukaan kamu</string>
+    <string name="desc_two">Memudahkan kamu mencari pakaian wanita dan pria</string>
+    <string name="desc_three">Ayo perluas bisnis kamu dengan aplikasi Go Thrift</string>
+
+    <string name="desc_masuk">Terima kasih telah menggunakan aplikasi Go Thrift. Ayo kurangi limbah pakaian bekas bersama Go Thrift!</string>
+
+    //Buat akun underline
+    <string name="buat_akun"><u>Buat Akun</u>.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

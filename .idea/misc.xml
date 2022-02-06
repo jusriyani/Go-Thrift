@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/drawable-v24/toolbar_gradient_background.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/drawable/back.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/drawable/gradient_background.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/drawable/ic_email.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_adress.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_all_chat.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_another.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_chat.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_daftar.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_detail_toko.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_dikemas.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_dikirim.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_diterima.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_favorit.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_keranjangku.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_list_toko.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_main2.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_main3.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_main4.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_masuk.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_not_read_chat.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_notification.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_ongkos_kirim_penjual.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_profil.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_splash.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_tambah_produk_penjual.xml" value="0.1703125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_tampilan_produk.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_toko_saya_penjual.xml" value="0.1703125" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/activity_toko_saya_penjual2.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/checkout_activity.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/detailtoko.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/fragment_page1.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/fragment_populer.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/list_item.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/listtoko.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/ongkoskirimpenjual.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/slide_1.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/slide_2.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/slide_3.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/slider_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/layout/toolbar.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/GoThrift/app/src/main/res/menu/bottom_menu.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/drawable/gradient_background.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/activity_another.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/slide_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/slide_2.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/slide_3.xml" value="0.184375" />
+        <entry key="..\:/Users/USER/Documents/GoThrift/app/src/main/res/layout/slider_layout.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/GoThrift/app/src/main/res/layout/activity_dikemas.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/GoThrift/app/src/main/res/layout/activity_main.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/USER/Downloads/GoThrift/app/src/main/res/layout/activity_splash.xml" value="0.14175724637681159" />
+        <entry key="..\:/Users/USER/Downloads/GoThrift/app/src/main/res/layout/fragment_page1.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/GoThrift/app/src/main/res/layout/toolbar_gradient.xml" value="0.14175724637681159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

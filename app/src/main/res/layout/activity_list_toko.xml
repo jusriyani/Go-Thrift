@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ListTokoActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="330dp"
+        android:layout_marginEnd="312dp"
+        android:layout_marginBottom="347dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="513dp"
+        android:layout_marginEnd="311dp"
+        android:layout_marginBottom="164dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="155dp"
+        android:layout_marginEnd="312dp"
+        android:layout_marginBottom="522dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="423dp"
+        android:layout_marginEnd="311dp"
+        android:layout_marginBottom="254dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="244dp"
+        android:layout_marginEnd="313dp"
+        android:layout_marginBottom="433dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="603dp"
+        android:layout_marginEnd="310dp"
+        android:layout_marginBottom="74dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="308dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="413dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="220dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="501dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="398dp"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginBottom="323dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="489dp"
+        android:layout_marginEnd="-2dp"
+        android:layout_marginBottom="231dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="580dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="141dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="match_parent"
+        android:layout_height="9dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="666dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="54dp"
+        app:srcCompat="@drawable/garis" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="412dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginTop="-8dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="641dp"
+        app:srcCompat="@drawable/rectangle" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="163dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="549dp"
+        android:fontFamily="sans-serif-black"
+        android:text="JaehyunShop.id"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="184dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginBottom="528dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 2 jam lalu" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="170dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="542dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="252dp"
+        android:layout_marginEnd="224dp"
+        android:layout_marginBottom="460dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Kokopi.id"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="272dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="440dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 45 menit lalu" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="263dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="449dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="346dp"
+        android:layout_marginEnd="205dp"
+        android:layout_marginBottom="366dp"
+        android:fontFamily="sans-serif-black"
+        android:text="SekeninAja"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="453dp"
+        android:layout_marginEnd="171dp"
+        android:layout_marginBottom="259dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 5 menit lalu" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="316dp"
+        android:layout_marginTop="358dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="354dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="435dp"
+        android:layout_marginEnd="229dp"
+        android:layout_marginBottom="277dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Momoji"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="365dp"
+        android:layout_marginEnd="172dp"
+        android:layout_marginBottom="347dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 1 jam lalu" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="445dp"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="267dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="526dp"
+        android:layout_marginEnd="204dp"
+        android:layout_marginBottom="186dp"
+        android:fontFamily="sans-serif-black"
+        android:text="Gogodict.id"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="547dp"
+        android:layout_marginEnd="173dp"
+        android:layout_marginBottom="165dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 4 jam lalu" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="314dp"
+        android:layout_marginTop="541dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="171dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="122dp"
+        android:layout_marginTop="610dp"
+        android:layout_marginEnd="203dp"
+        android:layout_marginBottom="102dp"
+        android:fontFamily="sans-serif-black"
+        android:text="KarinaShop"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="630dp"
+        android:layout_marginEnd="172dp"
+        android:layout_marginBottom="82dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 1 jam lalu" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="626dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="86dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="102dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="594dp"
+        app:srcCompat="@drawable/panjang" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="109dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginBottom="603dp"
+        android:text="Cari nama toko" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="109dp"
+        android:layout_marginEnd="343dp"
+        android:layout_marginBottom="605dp"
+        app:srcCompat="@drawable/search" />
+
+    <ImageView
+        android:id="@+id/imageView48"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="47dp"
+        android:layout_marginTop="688dp"
+        android:layout_marginEnd="310dp"
+        android:layout_marginBottom="-11dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@drawable/gambartoko"
+        tools:layout_editor_absoluteY="217dp" />
+
+    <TextView
+        android:id="@+id/textView50"
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="695dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginBottom="17dp"
+        android:fontFamily="sans-serif-black"
+        android:text="JusriyaniStore"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView49"
+        android:layout_width="118dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="712dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginBottom="0dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Aktif 5 jam lalu" />
+
+    <TextView
+        android:id="@+id/textView51"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="313dp"
+        android:layout_marginTop="699dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginBottom="13dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Visit Store" />
+
+    <ImageView
+        android:id="@+id/imageView66"
+        android:layout_width="51dp"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="45dp"
+        android:layout_marginEnd="347dp"
+        android:layout_marginBottom="655dp"
+        app:srcCompat="@drawable/back" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="82dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="254dp"
+        android:layout_marginBottom="662dp"
+        android:fontFamily="sans-serif-black"
+        android:text="List Toko"
+        android:textAlignment="textStart"
+        android:textColor="#FBF8F8"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
